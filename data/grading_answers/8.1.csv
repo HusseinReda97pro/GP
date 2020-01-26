@@ -1,0 +1,28 @@
+,answers,score
+0, A data structure for storing items which are to be accessed in last-in first-out order that can be implemented in three ways.,5
+1, A stack is an abstract data type that is based on the principle that the last element inserted into the stack will be the first element removed from the stack.,5
+2, Stores a set of elements in a particular order.,2
+3," An ADT whose most recently inserted item is the first item removed or retrieved. This property is called last in, first out (LIFO). Items enter and leave a stack at its top.",5
+4, A list in which only the top (or last item added) can be modified.,4.5
+5, a stack is a data structure that uses push to insert an item and pop to remove ad item. The stack use a last in first out structure for inserting and removing items.,5
+6, A data structure that stores data using LIFO.,5
+7," A stack is similar to an array, but does not allow for random access. Stacks only allow a user to retrieve the last item put into the stack. Last in, fist out.",5
+8, Stores a set of elements in a particular order. Stack principle: LAST  IN  FIRST  OUT. It means: the last element inserted is the first one to be removed.,5
+9, A stack is an ADT that stores a set of elements in a particular order.,2.5
+10," a data type that stores a set of elements in a certain order, last in, first out.",5
+11, a data structure that moves elements in last in first out,5
+12, Stores a set of elements in a last in first out order.,5
+13, A list that can be added to or removed from only from the top.,5
+14," a stack is an Abstract data type which operates on a last in first out basis for storing a list of objects, and does not support ( at least in the pure stack) peeking at a element without removing the rest of the stack first.",5
+15, Stores a set of elements in a particular order<br>based on the principle of Last In First Out (LIFO). ,5
+16," an object list that stores elements in a particular order, the first object inserted is at the bottom with the last object at the top so the first object in is the last object out.",5
+17, An ADT that stores a set of elements in a particular order. The stack principles are LIFO. The last item inserted in the list is the first out.,5
+18, An abstract data type that stores a set of elements in a particular order.,2.5
+19, a collection of data to be executed in the order of last in first out,5
+20," A stack is a data structure that allows data members to be added or removed one at a time, and in order. They are a ""Last in First Out"" structure.",5
+21, Stores a set of element in a particular order,2
+22, is a list of element where the first one to be removed is the last one inserted,5
+23, A data structure that puts elements in a list and only allows the user<br> access to the last element.,4.5
+24, a finite ordered list with zero or more elements,2
+25," A storage container that holds objects in a certain order, which has a LIFO priority",5
+26," Stacks are a type of container adaptors, specifically designed to operate in a LIFO context (last-in first-out), where elements are inserted and extracted only from the end of the container.",5

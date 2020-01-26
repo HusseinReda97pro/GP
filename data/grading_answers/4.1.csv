@@ -1,0 +1,31 @@
+,answers,score
+0, int n[10]; //array of 10 integers<br>and<br>int n[arraySize] //where arraySize is some positive integer defined by the user,4
+1, by either inputing the different elements in the array at coding or giving the array specifacations as to the size of the array. it is also possible when giving it specifacations to tell the array to grow as needed.,4
+2, You can initialize and array by using an initializer list in its declaration or by initializing its size with a constant variable.,5
+3, Pass the length along with the array or use a vector.,3
+4," One way is to declare a size of the array using a variable that is equal to an integer. The other way, if the size is omitted in the declaration, the compiler determines the size of the array based on the size of the initializer list.",5
+5," In the declaration (int array [x]) or with an initilizer (int array[]={0,1,2,etc.}",5
+6," 1. Declare the length of the array (int array[10];)<br>2. Initialize the array (int array[] = {0, 1, 2, 3}; //compiler will assume size of 4)",5
+7, statically and dynamically,2.5
+8, Explicitly int array[10];<br>or by variable<br>const int size = 10;<br>int array[size];,4
+9," Array lengths can be explicitly specified by inputing the number of elements between the brackets [ ] during declaration, or implicitly by including an initializer list WITHOUT specifying a number between [ ], the compiler will automatically declare the array with the proper number of elements needed for the list. ",5
+10, Specify an array\xc3\xa2\xe2\xac\xe2\xa2s size with a constant variable.<br>And setting array elements with calculations.<br>,3.5
+11," statically, using {} and dynamically, using []",4
+12," define it as array[5] or array[1,2,3,4,5]",4.5
+13, Static and dynamic.,2.5
+14, manually inside the brackets or automatically via an initializer list,5
+15," You can use an initializer list, or simply tell the compiler how many elements you want in the array.<br><br>For an Initializer list: <br>int a[] = {10, 2, 3, -4, 5};<br><br>For an elemental declaration:<br>int b[5];<br><br>Both arrays have 5 elements in them, but array a is already initialized.",5
+16," In a string you can specify with the strlen(arrayname) command. This gets the length of the string. Another way is with integers where you initiate the size from the start, ex array[40] specifying a possible length of up to 40. Then it is passed by an object the actual ammout in the array. Another way is to declare it in an initializing program. ",4.5
+17," Implicit, namely when you give it values, like {1,2,3,4,5,6,7,8,9}, at which the compiler will automatically give this a size.<br>Static, during the declaration.<br>",5
+18," Supply an integer inside the brackets<br>or the compiler counts the number of elements in the initializer list.<br>int n[5];<br>int n[] = { 1,2,3,4,5 }",5
+19, either initializing the array with a specific length or initializing an array while declaring its contents.,5
+20, within the brackets or by using an initializer list.,5
+21, specify the number of elements in the array declaration with a constant or using a constant variable for future scalability,4
+22, with a number and with a variable,3
+23," explicitly, by declaring it in brackets (i.e. int array[50];) and implicitly, by initializing several values (i.e. int array[] = {1, 2, 3};)",5
+24," one way of specifying of array is A[10] ;<br>other way of specifying array is a[arraysize] = [1,2,3,4,5,6,7,8,9,10}",4.5
+25, 1-Initializing an array in a declaration with an initializer list<br>2-Specifying an array\xc3\xa2\xe2\xac\xe2\xa2s size with a constant variable ,5
+26," Initializing the size in the brackets: int a[100];<br>Initializing the length by assigning variables: int a[] = {1,2,3};",5
+27, user defined value or by the number of elements in initializer list,5
+28," you can assign the size of it inside the brackets when you declare the array [3], or you can have it set by how many items you set the array equal to {1,2,3}",5
+29," use an arraylist, or have your program ask the array how many elements it has. As an obj it it should have member length that is the number of slots it has. ",4

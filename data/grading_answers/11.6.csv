@@ -1,0 +1,31 @@
+,answers,score
+0," Iteration, performers  a series of checks and loops.",5
+1, The alternative method is to use loops in the program instead of a function which calls itself. ,4
+2, An alternative to solving a problem using recursive functions is to solve the problem using iteration.,5
+3," Iteration, this would be more efficient and has repetition structure.",5
+4, One can use iteration or by using a simple while/for loop.,5
+5, iteration,5
+6," Iteration. A while loop or a for loop will be able to accomplish the same desired outcome... It may be faster than recursion, but could also be harder to understand.",5
+7, you can also solve the problem iteratively,5
+8, iterative,5
+9, Using iteration loops.,5
+10, Another alternative way to solve a problem instead of using recursive functions is by using iteration.,5
+11," A recursive function can often be solved using an iterative function, which runs faster, but is often more complicated.",5
+12, iteration,5
+13, Any recursive function can be solved using an iterative method.,5
+14," Many recursive solutions may also be solved with looping control statements, such as while, for, do-while, etc.",4
+15," Using an iterative function, which repeats a specified operation or set of operations until a terminating point or base case is reached.  ",5
+16, iteratively,5
+17, using an Iterative calls,5
+18, Iteration.,5
+19, iteration is the alternative way to solve a problem,5
+20, using an iterative solution instead,5
+21," Using an iterative solution.  For, while, or do while loop.",5
+22, the alternative way to solve a problem that could be solved using recursion is iteration.,5
+23," Any problem solved recursively could be solved with an iterative function.<br>Iterative replacements for recursive functions may be more difficult to program, but often lead to more efficient solutions to a problem.<br>",5
+24, by iteration,5
+25," itteration, like a for loop, a while loop, or a do while loop",5
+26, Iteration by using loops,5
+27, iterative functions,5
+28, iteration,5
+29," the alt, way is to use a functions parameter in a call ""to"" function. ",3

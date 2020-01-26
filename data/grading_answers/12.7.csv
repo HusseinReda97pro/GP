@@ -1,0 +1,29 @@
+,answers,score
+0, push and pop,5
+1," Pop, which removes the head, or least recently inserted node from the stack. Push, which inserts a new node at the head of the stack.",5
+2, Push and pop,5
+3, The Push function and the Pop function.,5
+4, push and pop,5
+5, push - puts an element on the stack<br>pop- takes an element off the stack,5
+6, Push  and pop.,5
+7, Push and Pop,5
+8, push and pop.,5
+9," Push and Pop. Push adds an element to the stack, while Pop removes the top element from a stack.",5
+10, pop and push,5
+11," push,pop,search,isEmpty",4.5
+12, push and pop,5
+13," Push, Pop, isEmpty, isFull<br><br>Maybe List to show all elements or an operation to count how many elements in the stack.",5
+14," pop, push",5
+15," isempty, push and pop, along with usually, ",5
+16, push and pop,5
+17, push and pop. push puts objects into the stack and pop takes them out following the first in last out rule.,5
+18," The main operations in a stack are push and pop. Push adds an item to the top of the stack, pop removes the top item from the stack.",5
+19, push and pop,5
+20," push, which adds an item to the top of the stack, and<br>pop, which takes the first item off the top to the stack",5
+21," the main functions defined for a stack are push, which puts an element on the top of the stack, and pop, which removes an item from the top.",5
+22, Push()<br>Pop()<br>Full()<br>IsEmpty(),5
+23, pop and push<br>to remove an element and to insert an element,5
+24," Push, Pop",5
+25, push and pop,5
+26, push - Add an element to the top of the stack<br>pop - remove the top element from the stack,5
+27, push and pop ,5

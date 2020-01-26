@@ -1,0 +1,31 @@
+,answers,score
+0, The compiler creates a default constructor when we do not define one in our class file,5
+1, during compilation,3.5
+2, When the class does not explicitly include a constructor.,5
+3, When no parameters are set is when a default constructor is used.  ,3
+4, When a class does not explicitly include a constructor.,5
+5, When there are no arguments passed.,1.5
+6, when there is not one already for a specific class,5
+7, When it the programs compiles,3.5
+8, when a constructor is not provided by the programmer of the class,5
+9, In any class that does not explicitly include a constructor.,5
+10, Before the main function of the code.,1
+11, whenevery you dont specifiy your own,5
+12, When non are provided,5
+13, C++ will create a default constructor when no other constructor is present.,5
+14," When no constructor was specified in the constructor's class, but the class is instantiated in a program.",5
+15," When no constructor exists when one is needed, a parameterless default constructor is declared.",5
+16," The Compiler creates this automatically for you, unless you specifically create one.",5
+17, In any class that doesn't explicitly include a constructor.,5
+18, when no user-defined constructor exists,5
+19," If a class does not explicitly include a constructor, the compiler creates one.",5
+20, When you do not provide your own constructor.,5
+21, When a class does not explicitly include a constructor.,5
+22, C++ creates a default constructor during compilation if one is not provided.,5
+23, when a class does not explicitly include a constructor,5
+24, The compiler will provide one when class does not explictly include a consructor.,5
+25, when the programmer does not explicitly include a constructor,5
+26, When one is not explicitly stated.,5
+27, when one is not explicitly included by a class<br>,5
+28, When you dont specify any constructors.,5
+29," at the very beginning when you run a complier, matter a fact in C++ it generates its own default constructor for the class provided if no other constructors have been provided by user",5

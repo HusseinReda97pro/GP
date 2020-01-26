@@ -1,0 +1,31 @@
+,answers,score
+0, Public and private specifiers.,5
+1," Public, Private, Restricted",5
+2, The access specifiers are public and private.,5
+3, public<br>private<br>protected,5
+4, Public or Private.,5
+5, public: the function or variable can be used outside the class<br>private: the function or variable can only be used with the class,5
+6, Public and Private,5
+7, public private and protected,5
+8, Public<br>Private,5
+9," Private, public, protected",5
+10, The access-specifiers that can be used in a C++ class definition is private and public.,5
+11, public and private.,5
+12," static, long, unsigned",0.5
+13," Private, Public, Protected, or Friend.",5
+14," A C++ class definition may include access-specifiers public, private, and static.",4.5
+15," local, global, local-variable, function specific",2.5
+16," public, private",5
+17," Public, protected, and private.",5
+18," private, public",5
+19, public - can be accessed by any of the program<br><br>private - can only be accessed by the class functions themselves and no outside functions or calls,5
+20," public , private, protected",5
+21, public and private,5
+22," public, private, protected",5
+23," functions and data members can be given access-specifications of public, private, and friend. public access is given to any functions or members not given specific access rights.",5
+24, data member or data functions are access specifiers,0.5
+25, public or private,5
+26, public and private,5
+27, public and private,5
+28," public - can be accessed from outside the class<br>private - accessible only from inside the class, not inherited<br>protected - accessible only from inside the class, inherited",5
+29, public private protected,5

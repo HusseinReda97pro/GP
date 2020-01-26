@@ -1,0 +1,28 @@
+,answers,score
+0, enqueue which adds data to the queue and dequeue which deletes data from the queue,5
+1," enqueue , which inserts a specified element at the head of the specified queue, and dequeue , which removes the specified element from the queue.",5
+2, The two main functions are enqueue which inserts an item at the back of the queue and dequeue which removes an item from the front of the queue.,5
+3, The two main functions are enqueue and dequeue.,5
+4, Enqueue and Dequeue,5
+5, Enqueue and Dequeue,5
+6, enqueue - insert into queue<br>dequeue - remove element,5
+7," Remove the item added first, add items to the back.",5
+8, The two main functions of a queue are enqueue and dequeue. ,5
+9, enqueue and dequeue.,5
+10, enqueue and dequeue,5
+11, Enqueue and Dequeue,5
+12, enqueue and dequeue,5
+13, enqueue and dequeue,5
+14," enque ( Data ),  Deque ( )",5
+15, enqueue and dequeue,5
+16, enqueue and dequeue,5
+17," The two functions are, Enqueue and Dequeue",5
+18," enqueue, dequeue",5
+19," enqueue, that adds an item to the queue<br>dequeue, that takes the first item out of the queue",5
+20," Enqueue and dequeue, which add and remove elements from the queue",5
+21, Enqueue and Dequeue,5
+22, dequeue and enqueue,5
+23, enqueue and dequeue,5
+24, enqueue and dequeue,5
+25, enqueue<br>dequeue,5
+26, rear and front ,2.5

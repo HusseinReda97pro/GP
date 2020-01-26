@@ -1,0 +1,27 @@
+,answers,score
+0, they can traverse in both directions,3.5
+1, In a doubly linked list you can delete a node without having to traverse the list.,4.5
+2, A doubly-linked list allows you to delete a node without traversing the list to establish a trailing pointer.,4.5
+3, A doubly linked list allows you to traverse the list in either direction. Each node points to its successor as well as to its predecessor. ,3.5
+4," Doubly-linked lists can traverse backwards, though they still cannot access data at any point in the list, it can be shorter to traverse backwards.",3.5
+5, you can traverse the list from front to back and back to front,3.5
+6, You can traverse the list in reverse.,3.5
+7, Doubly linked lists can be traversed in both directions,3.5
+8," Double-linked lists require more space per node, and their elementary operations are more expensive; but they are often easier to manipulate because they allow sequential access to the list in both directions.",3.5
+9, You can traverse forwards and backwards through nodes. ,3.5
+10, You can point both forwards and backwards,3.5
+11, You can go backwards in the linked list and access previous data easier without having to keep track of the previous item,4
+12, Doubly linked lists allow backward movement through the nodes.,3.5
+13," they have double pointers, so each node can point forwards or backwards. Making it a little easer to get to where you need. ",3.5
+14,  ability to backtrack through a list.,3
+15, You can move forwards and backwards in the double-linked list. Basic only moves forwards.,3.5
+16, The advantage is that each node points to bothe its predecessor and its successor. There are no special cases for insertion and deletion.,4.5
+17, each node points to both its predecessor and its successor.,3.5
+18, a doubly linked list has pointers in both directions. this allows for access from back to front as well as front to back,4
+19," A doubly linked list can be traversed either direction, while a normal linked list can only be traversed from start to finish",3.5
+20," Double Linked list are often easier to manipulate, because they allow sequential access to the list in both direction",4
+21," given a node in the list, one can navigate easily in either direction",4
+22, You can traverse the list both forward and backwards.,3.5
+23, a doubly linked list allows you to back up from a node rather than having to go through the entire list again<br>,4
+24, Gives faster times for some operations such as insertion and deletion,5
+25," The primary disadvantage of doubly linked lists are that (1) each node requires an extra pointer, requiring more space, and (2) the insertion or deletion of a node takes a bit longer (more pointer operations).",2

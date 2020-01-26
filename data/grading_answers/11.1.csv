@@ -1,0 +1,31 @@
+,answers,score
+0," The name of the class file, the parameters it must take to perform its function.  Also a brief description of what the class does.",3
+1," access specifiers and functions, oftentimes a constructor.",3
+2," The elements typically included in a class definition are the function prototypes, usually declared public, and the data members used in the class, which are usually declared private.",5
+3," Class is user defined.  It contains members, data and functions.  The keyword class is used and includes brackets ({})",4
+4, Member functions and data members.,5
+5, the functions and variables used when the object is defined for the class.,4
+6," Data members, functions and function definitions, variables.",5
+7, return type and input parameters,2.5
+8, Constructor<br>Data members<br>Methods,4.5
+9," Function members and member attributes, or in other words, the class variables and functions.",5
+10," The elements that are included in a class definition is the access-modifier, data types, variables, and function signatures.",4
+11, The variables and function prototypes.,4
+12, public and private variables and initiations of functions included in the class.,4
+13, The return value and the accepted value.,1.5
+14," A class definition typically includes the class name, the classes constructor(s), and any extra functions and class variables.",4
+15," Parameters and their type, Class name, and return type, and the code to be executed in the class.",3
+16," data members, class variables, and functions",5
+17," Constructor, functions, and variables native to the class.",4
+18, functions and data members,5
+19, data members and function definitions,5
+20, member functions and data members,5
+21," constructor, and function definitions.",3.5
+22, class name<br>data of class<br>definition of functions and methods,4.5
+23," A class definition includes the definitions of the class' constructor(s) and any public or private functions. Of course, it also #includes the class header and any necessary C libraries",3
+24," Class name, {}, semicoln at the end of the defination, private and bublic followed by "": """,3
+25," a constructor, private and public variables, and function prototypes",4
+26," Data variables and Functions, Data members",5
+27, class definitions include the name of the class and type of parameters,3
+28," class variables, class function prototypes",4.5
+29, input  & return type elements,2.5

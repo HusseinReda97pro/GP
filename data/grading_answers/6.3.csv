@@ -1,0 +1,27 @@
+,answers,score
+0, returns a synonym for the object to which its pointer operand points.,5
+1, The star operator returns a synonym for the object to which its pointer operand points.,5
+2, Returns synonym for the object its operand points to.,5
+3," It returns a synonym, alias or nickname of the name of the object that its operand points to in memory (dereferencing the pointer).",5
+4, Returns an alias/nickname for the object to which the pointer operand points.,5
+5, the * operator returns the value in the memory address the element points to.,4
+6, The * returns the value,4
+7, The * operator returns the dereferenced pointer variable (ie: it returns the value of whatever variable the pointer is pointing to),5
+8, The dereferencing operator returns the dereferenced object.,4.5
+9, * returns the synonym for the object its operand points to.,5
+10, it returns the information in the address the pointer points to.,4
+11, the star operator returns the value at the memory address the pointer is pointing at.,4.5
+12, The star operator returns the object at that memory location.,4
+13, The * operator returns the value of the object's memory address it precedes.,3.5
+14, The value of the object that the operand points to,4.5
+15, The value stored in the object being pointed to.,4
+16, the value of the variable the pointer points to.,4
+17, returns synonym for the object its operand points to,5
+18, synonym for the object its operand points to,5
+19, Returns synonym for the object its operand points to,5
+20," It dereferences a pointer, meaning it returns the value stored in the memory address a pointer refers to.",4.5
+21, It is unary operator that returns the value of the variable located at the address,4
+22, a reference to a = variable,2
+23, a synonym for the object to which its pointer operand points,5
+24, it returns the actual data at the address pointed to,3.5
+25, will return zero or many characters placed before the operator ,2

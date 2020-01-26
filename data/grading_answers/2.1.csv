@@ -1,0 +1,31 @@
+,answers,score
+0," For us it is usually a set, get, and displayMessge or other messages that tell you what properties a class has but does not reveal its implementations. You could have anything you want in your own class definition.",2
+1, The attributes of said class. Also whether or not it is a subclass. Also whether it is public private or protected.,4
+2, Information telling the compiler what data members and member functions belong to the class.,5
+3," Since class is user defined, the body of the declaration can contain members, that can be either data or function declarations, and optionally access specifiers.  Example for specifiers would be public, private, and protected.  There is the keyword Class and the Class body is enclosed with brackets ({}). ",5
+4, An object and data.,2
+5," It's specific class name, includes only information defined by that class... implementation details... etc.",3
+6, data members and member functions.,5
+7, A class definition usually contains the function and its data members,5
+8, Data members and member functions,5
+9, member functions,3.5
+10, Member functions and data members belonging to the class.,5
+11, a public and private area that includes the functions and variables that are used in the class,4.5
+12," the keyword class followed by they class name, on the inside you declare public and private declarations of your class",3.5
+13, A class definition typically includes function definitions.,3
+14," It begins with Class, followed by the class name, then usually a constructor, data members and member functions that delineates the class is included in any class's definition.",5
+15, the data and methods ,4.5
+16," A constructor, functions, and variables that are accessible to by that class, and possibly other classes depending on how they are done.",4.5
+17, Member functions and data members.,5
+18," public section and private section, and there must be a semicolon to set the end",2.5
+19, member funtions and data members,5
+20, Data members and Member functions,5
+21, data members and member functions,5
+22," the class name and its public data types such as constructors, methods, functions.",3.5
+23," a constructor and several data members, and at least one public data member or method",4.5
+24," class name, two curly prenthesis, public and private",2
+25, data members and member functions,5
+26, Data and functions,4.5
+27, functions and data members that belong to the class,5
+28," class variables, function definitions for the class",5
+29," A class is an expanded concept of a data structure, it holds both the data and the functions being executed ",4.5

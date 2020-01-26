@@ -1,0 +1,28 @@
+,answers,score
+0, Push and pop are two main functions defined in a stack,5
+1, Push which inserts an element on the top of the stack and pop which removes the last inserted element from the stack.,5
+2, Push and pop.,5
+3, Pop function and Push function,5
+4, push and pop.,5
+5, push (insert an item)<br>pop (remove an item),5
+6, Adding a new item and removing the item,5
+7, Push (insert) and pop (retrieve).,5
+8, push and pop.,5
+9, Push and Pop.,5
+10, pop and push,5
+11, push (add an element)<br>pop (remove an element),5
+12, Push and pop.,5
+13, pop and push,5
+14, push ( to add to a item the Stack)<br>Pop  ( to pull the last item added from an array. ),5
+15, pop and push,5
+16," push and pop, push puts an object into the list, and pop takes the last object off.",5
+17, Push and Pop are the two main functions of a stack,5
+18, Push and Pop,5
+19," push, which adds an element to the stack... and pop which takes an element off the stack",5
+20," Push and Pop, which add and remove data from the stack, respectively.",5
+21, push and pop,5
+22, pop - to remove item<br>push - to insert an element<br>,5
+23, Pop and push,5
+24, pop and push,5
+25, push - adds an item to the top of the stack<br>pop - removes the top item from the stack,5
+26, push and pop.<br>Push adds a given node to the top of the stack leaving previous nodes below. Pop removes and returns the current top node of the stack,5

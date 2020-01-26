@@ -1,0 +1,27 @@
+,answers,score
+0, Its a location in memory that contains the memory address of another location in memory that contains information.,5
+1, A pointer is a variable that contains a memory address as its value.,5
+2, A pointer is a variable which stores the address of another variable.,5
+3, Pointers are variables that contain as their values memory addresses of other variables.,5
+4, A data type whose value refers to another value stored elsewhere in the computer memory using its address.,4.5
+5, a pointer holds a memory location,4.5
+6, a name that represents actual location or value of a data type.<br>int *bPtr points to an integer value.,4.5
+7, A variable that stores the address of another variable,5
+8, a pointer is a programming language data type whose value refers directly to (or \xc3\xa2\xe2\xac\xc5points to\xc3\xa2\xe2\xac\xc2) another value stored elsewhere in the computer memory using its address,5
+9, A data type whose value refers to another value stored somewhere else in the computer memory using its address.,5
+10," It is like a variable however instead of holding data, it holds a location in memory.",4.5
+11, A pointer is a reference to a location in memory,5
+12, A pointer is a reference to the memory location of an object.,4.5
+13, A pointer is a variable that contains the memory address of a variable that has a value.,5
+14," It is a variable that contains not only a *value but has a memory address associated with it, and can be moved along a string or an array by jumping up one memory address.",3.5
+15, Contains a variable's memory address as a value.,5
+16, variable that points to the memory address of another variable and it is type specific.,5
+17, An element that references a memory cell,5
+18, Is a reference call to the place in memory where the object is stored.,4
+19, a variable that contains the address of another variable,5
+20," A pointer variable contains the number of a memory address as its value, which may be null or 0, or the address of some value stored in memory.",5
+21, A pointer is a variable that contains a memory address of anther variable,5
+22, A variable that contains the memory address of another variable that contains a specific value.,5
+23, a variable with a memory address as the value,4.5
+24, it is a type that points to something else. It is the memory address of something else,4.5
+25, A pointer is a way to get at another object. Essentially it is a way to grab an instance of an object and then either pass that instance a message or retreive some data from that object. A pointer is actually just an address of where an instance is held in memory. ,4.5
