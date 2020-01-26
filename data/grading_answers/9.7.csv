@@ -1,28 +1,28 @@
-,answers,score
-0," A stack, some printing jobs might have a higher priority than others and they can be easily inserted at the front of the list or anywhere between.",1.5
-1, a queue otherwise some things would never be printed.,5
-2, A queue is more appropriate for scheduling printing jobs because queues have first in first out behavior.,5
-3," Queue, its better to be FIFO than LIFO(stack).",5
-4, Queue of course!,5
-5," Queue, the person who wanted to print first should be first served.",5
-6, queue because it guarantees that job are executed in the order they come in.,5
-7, queue,5
-8, Queues would be preferable to stacks for use as scheduling print jobs because it would print jobs in the order that they were sent to the printer.,5
-9, a queue.,5
-10, queue,5
-11, a queue,5
-12," Queue's are more appropriate, as printers are usually first come, first serve.  ",5
-13, queue,5
-14," queue, because of the first in first out principles, and if it was a stack it would be last in last out,  because it could possibly not let the first item that was added get removed in a timely manner.",5
-15, Queue<br>,5
-16, a queue,5
-17, A Queue data structure is more appropriate for scheduling printing jobs at a printer. The first job sent to the printer is the first job printed.,5
-18, a queue.  It wouldn't be unfair for the first job to finish last.,5
-19," a queue, because it takes the job that has waited the longest",5
-20," A queue is more appropriate, because the clients which have waited the longest should be the first served.",5
-21, Queue,5
-22, a queue,5
-23, Queue,5
-24, i would say that a queue is better because the first thing you try to print should be the first one to come out of the printer  (FIFO),5
-25," a queue, because you want the jobs to execute in the order that they are received",5
-26, queue,5
+answers,score
+" A stack, some printing jobs might have a higher priority than others and they can be easily inserted at the front of the list or anywhere between.",1.5
+ a queue otherwise some things would never be printed.,5
+ A queue is more appropriate for scheduling printing jobs because queues have first in first out behavior.,5
+" Queue, its better to be FIFO than LIFO(stack).",5
+ Queue of course!,5
+" Queue, the person who wanted to print first should be first served.",5
+ queue because it guarantees that job are executed in the order they come in.,5
+ queue,5
+ Queues would be preferable to stacks for use as scheduling print jobs because it would print jobs in the order that they were sent to the printer.,5
+ a queue.,5
+ queue,5
+ a queue,5
+" Queue's are more appropriate, as printers are usually first come, first serve.  ",5
+ queue,5
+" queue, because of the first in first out principles, and if it was a stack it would be last in last out,  because it could possibly not let the first item that was added get removed in a timely manner.",5
+ Queue,5
+ a queue,5
+ A Queue data structure is more appropriate for scheduling printing jobs at a printer. The first job sent to the printer is the first job printed.,5
+ a queue.  It wouldn't be unfair for the first job to finish last.,5
+" a queue, because it takes the job that has waited the longest",5
+" A queue is more appropriate, because the clients which have waited the longest should be the first served.",5
+ Queue,5
+ a queue,5
+ Queue,5
+ i would say that a queue is better because the first thing you try to print should be the first one to come out of the printer  (FIFO),5
+" a queue, because you want the jobs to execute in the order that they are received",5
+ queue,5

@@ -1,25 +1,25 @@
-,answers,score
-0, A leaf is a child of a parent node that has no children nodes of its own.,5
-1, A leaf is a node with no children.,5
-2, A node with no children.,5
-3, A tree node with no children.,5
-4, And end point of the tree... a node that does not have any children.,5
-5, a node with no children.,5
-6, A new item to the tree--a child,3
-7," A leaf is a node with children, it is a terminating node.",2
-8, The node with degree 0.,4
-9, the node with degree 0,4
-10, a leaf is a node with no children,5
-11, the last child on any branch,4.5
-12, The last value in the tree. A value with no children attatched. ,5
-13, a node with no children.,5
-14, A node with no children.,5
-15, A leaf is a node with no children,5
-16, a node with degree 0.  last node in the tree and furtherest away from the root.,4
-17, an endpoint on a tree that contains no pointers or pointers that are set to null,4.5
-18, A leaf is a node with no children.,5
-19, an element in a tree that has no children ,5
-20, A node with no children.,5
-21, a leaf is a node that has no children nodes,5
-22, a leaf is a node with no children,5
-23," The elements at the very bottom of an inverted tree (that is, those that have no elements below them) are called leaves.",5
+answers,score
+ A leaf is a child of a parent node that has no children nodes of its own.,5
+ A leaf is a node with no children.,5
+ A node with no children.,5
+ A tree node with no children.,5
+ And end point of the tree... a node that does not have any children.,5
+ a node with no children.,5
+ A new item to the tree--a child,3
+" A leaf is a node with children, it is a terminating node.",2
+ The node with degree 0.,4
+ the node with degree 0,4
+ a leaf is a node with no children,5
+ the last child on any branch,4.5
+ The last value in the tree. A value with no children attatched. ,5
+ a node with no children.,5
+ A node with no children.,5
+ A leaf is a node with no children,5
+ a node with degree 0.  last node in the tree and furtherest away from the root.,4
+ an endpoint on a tree that contains no pointers or pointers that are set to null,4.5
+ A leaf is a node with no children.,5
+ an element in a tree that has no children ,5
+ A node with no children.,5
+ a leaf is a node that has no children nodes,5
+ a leaf is a node with no children,5
+" The elements at the very bottom of an inverted tree (that is, those that have no elements below them) are called leaves.",5

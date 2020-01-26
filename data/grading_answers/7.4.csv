@@ -1,27 +1,27 @@
-,answers,score
-0, They are passed by reference because you want the function to change the pointer<br>,4.5
-1, Linked lists are passed as arguments to a function by passing the head pointer of the list by reference.,5
-2, - A function with access to a linked list's head pointer has access to the entire list.<br><br>      - Pass the head ponter to a function as a reference argument.,5
-3, By using a node.,2.5
-4, Pass-by-reference,5
-5, you send a pointer to an object of the LinkedList class,2.5
-6, Passed as a pointer to the head.,4
-7, Passing the head pointer of a linked list to a function gives that function access to all nodes of that linked list,4.5
-8, You have to pass the head pointer to a function since it has access to the entire list.,4
-9, You pass the head pointer to a function as a reference argument.,5
-10, not answered,0
-11, passes a pointer to a linked list object,2.5
-12," The linked list object contains the head, through which the other elements are accessible.",3.5
-13, By the head of the list. It takes the head address and traverses from there on in. ,4
-14, as a pointer node.,3
-15, A method with access to a linked list's head pointer as access to the entire list,4
-16, A function with access to a linked list's head pointer has access to the entire list. Pass the head pointer to a function as a reference argument,5
-17, the head pointer is passed to a function as a reference argument.,5
-18, the pointer to the first element is passed to a function,4
-19," linked lists are passed by reference, specificly the Head pointer",5
-20, Pass the head pointer to a function as a reference argument,5
-21, by refrenece,5
-22, By passing the head pointer and going through the list as needed inside the function.,4
-23, linked lists are passed by using pointers<br>,3
-24, the head object is passed to the function,3.5
-25," Linked lists permit insertion and removal of nodes at any point in the list in constant time,[1] but do not allow random access. ",1.5
+answers,score
+ They are passed by reference because you want the function to change the pointer,4.5
+ Linked lists are passed as arguments to a function by passing the head pointer of the list by reference.,5
+ - A function with access to a linked list's head pointer has access to the entire list.      - Pass the head ponter to a function as a reference argument.,5
+ By using a node.,2.5
+ Pass-by-reference,5
+ you send a pointer to an object of the LinkedList class,2.5
+ Passed as a pointer to the head.,4
+ Passing the head pointer of a linked list to a function gives that function access to all nodes of that linked list,4.5
+ You have to pass the head pointer to a function since it has access to the entire list.,4
+ You pass the head pointer to a function as a reference argument.,5
+ not answered,0
+ passes a pointer to a linked list object,2.5
+" The linked list object contains the head, through which the other elements are accessible.",3.5
+ By the head of the list. It takes the head address and traverses from there on in. ,4
+ as a pointer node.,3
+ A method with access to a linked list's head pointer as access to the entire list,4
+ A function with access to a linked list's head pointer has access to the entire list. Pass the head pointer to a function as a reference argument,5
+ the head pointer is passed to a function as a reference argument.,5
+ the pointer to the first element is passed to a function,4
+" linked lists are passed by reference, specificly the Head pointer",5
+ Pass the head pointer to a function as a reference argument,5
+ by refrenece,5
+ By passing the head pointer and going through the list as needed inside the function.,4
+ linked lists are passed by using pointers,3
+ the head object is passed to the function,3.5
+" Linked lists permit insertion and removal of nodes at any point in the list in constant time,[1] but do not allow random access. ",1.5

@@ -1,29 +1,29 @@
-,answers,score
-0," The base case for a recursive merge sort is one number.  One number by itself is a sorted list, regardless of what number it is.",5
-1, The base case for a recursive implementation of merge sort is when the sequence being passed to merge sort has less than 2 elements.,5
-2, The base case for a recursive implementation of merge sort is one.,5
-3, The best case is the same as the worst case O(n log n) for a recursive merge sort.,2
-4, there is one object in the split array to sort.,5
-5, The base case is when the length of the current array is 1.,5
-6, O(nlog(n)),2.5
-7, Best case is one element.  One element is sorted.,5
-8, If the array being sorted has 0 or 1 elements,4.5
-9," T(n) = 0, if n&lt;2.",4
-10," A list size of 1, where it is already sorted.",5
-11, Single element in the array,5
-12, O(nlog(n)),2
-13, n * log( n ),2
-14, A list or array of only 1 element.,5
-15, where you only must merge sort once,3.5
-16, A single Element on the Array.,5
-17, There is only one element in the subarray.,5
-18," if the array length is less than or equal to 1, then that array is returned to the other array and merged together",4.5
-19," if (right &gt; left)<br>  {<br>    mid = (right + left) / 2;<br>    m_sort(numbers, temp, left, mid);<br>    m_sort(numbers, temp, mid+1, right);<br><br>    merge(numbers, temp, left, mid+1, right);<br>  }<br>",2
-20, The sequence of numbers has zero or one elements.,5
-21, one element in an array,5
-22, array of length 1,5
-23, the array has one element,5
-24," When there is only one element in the array, or when the starting element in the array is the same as the ending element.",4.5
-25," when each half or the original array has nothing else to sort, and puts the halfs back together",2.5
-26, the size of the list being sent is &lt;= 1,4.5
-27, O(n log n),2
+answers,score
+" The base case for a recursive merge sort is one number.  One number by itself is a sorted list, regardless of what number it is.",5
+ The base case for a recursive implementation of merge sort is when the sequence being passed to merge sort has less than 2 elements.,5
+ The base case for a recursive implementation of merge sort is one.,5
+ The best case is the same as the worst case O(n log n) for a recursive merge sort.,2
+ there is one object in the split array to sort.,5
+ The base case is when the length of the current array is 1.,5
+ O(nlog(n)),2.5
+ Best case is one element.  One element is sorted.,5
+ If the array being sorted has 0 or 1 elements,4.5
+" T(n) = 0, if n&lt;2.",4
+" A list size of 1, where it is already sorted.",5
+ Single element in the array,5
+ O(nlog(n)),2
+ n * log( n ),2
+ A list or array of only 1 element.,5
+ where you only must merge sort once,3.5
+ A single Element on the Array.,5
+ There is only one element in the subarray.,5
+" if the array length is less than or equal to 1, then that array is returned to the other array and merged together",4.5
+" if (right &gt; left)  {    mid = (right + left) / 2;    m_sort(numbers, temp, left, mid);    m_sort(numbers, temp, mid+1, right);    merge(numbers, temp, left, mid+1, right);  }",2
+ The sequence of numbers has zero or one elements.,5
+ one element in an array,5
+ array of length 1,5
+ the array has one element,5
+" When there is only one element in the array, or when the starting element in the array is the same as the ending element.",4.5
+" when each half or the original array has nothing else to sort, and puts the halfs back together",2.5
+ the size of the list being sent is &lt;= 1,4.5
+ O(n log n),2

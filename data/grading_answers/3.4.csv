@@ -1,32 +1,32 @@
-,answers,score
-0, Overall the program has better performance (means it is faster) because it does not have to copy large amounts of data.,5
-1, because you can't change the original and passing by reference limits memory needed for the program.,4.5
-2, Passing by reference can eliminate the pass-by-value overhead of copying large amounts of data.,5
-3," It is often more efficient to pass references, rather than large objects, to functions. This allows the compiler to pass the address of the object while maintaining the syntax that would have been used to access the object.",5
-4," Pass by reference is good for performance reasons, because it can eliminate the pass by value overhead of copying large amounts of data.",5
-5, You do not alter the original value of the variable that was passed.,3
-6, Don't have to make copies of stuff.,4.5
-7, you do not use unessesary memory space to copy variables between functions,5
-8, It elimitates the need to copy large amonts of data,5
-9, The function can change the data stored in a variable passed by reference directly.,3.5
-10, Gives called function the ability to access and modify the caller\xc3\xa2\xe2\x82\xac\xe2\x84\xa2s argument data.,3.5
-11, Gives called function the ability to access and modify the caller\xc3\xa2\xe2\x82\xac\xe2\x84\xa2s argument data directly.,3.5
-12, It is more efficient and it changes the variable not online inside the function but outside so that the new value can be used elsewhere.,3
-13, you don't make another copy and waste memory,5
-14," Passing by reference eliminates the copying of large amounts of data, typical with pass by value.",5
-15," If a function's arguments are large in size, computing time and memory space is not wasted copying down the argument and passing it to the function.  Also pass by reference gives the function called the permission to read edit the argument directly.",5
-16," Gives access to the caller data directly, also it allows for modifying the data.",3.5
-17," less overhead overall, and you modify the variable directly.",3.5
-18, The original variable being referenced can be modified directly by the called function.  ,3
-19, gives function ability to access and modify the caller's argument data directly,3.5
-20, Gives the called function the ability to access and modify the caller's argument data directly.,3
-21," Less overhead than passed by value, especially when using large numbers.",3.5
-22," large data items can be passed without copying the entire data point, reducing execution time and the amout of memory space needed<br>",5
-23, The data can be modified directly instead of making a copy of the data. Improves execution time with large amounts of data.,4
-24, Functions can directly modify arguments that are passed by reference.,3.5
-25, It gives access and modify the caller's argument data directly. It eliminate the pass by value overhead of copying large amounts ofdata,5
-26," it takes less memory, thus it would make the program faster",4
-27, You are able to modify the variable that is referenced directly.,3.5
-28," if you pass by reference, you can modify the value as opposed to passing by value where you cannot change the value",3.5
-29," only the memory address is sent to the function, so no copy of the object sent needs to be made. It makes the function run faster, and saves memory.",5
-30," Actual arguments are associated with dummy arguments when a function or subroutine is referenced. In a procedure reference, the actual argument list identifies the correspondence between the actual arguments provided in the list and the dummy arguments of the subprogram",3
+answers,score
+ Overall the program has better performance (means it is faster) because it does not have to copy large amounts of data.,5
+ because you can't change the original and passing by reference limits memory needed for the program.,4.5
+ Passing by reference can eliminate the pass-by-value overhead of copying large amounts of data.,5
+" It is often more efficient to pass references, rather than large objects, to functions. This allows the compiler to pass the address of the object while maintaining the syntax that would have been used to access the object.",5
+" Pass by reference is good for performance reasons, because it can eliminate the pass by value overhead of copying large amounts of data.",5
+ You do not alter the original value of the variable that was passed.,3
+ Don't have to make copies of stuff.,4.5
+ you do not use unessesary memory space to copy variables between functions,5
+ It elimitates the need to copy large amonts of data,5
+ The function can change the data stored in a variable passed by reference directly.,3.5
+ Gives called function the ability to access and modify the caller\xc3\xa2\xe2\x82\xac\xe2\x84\xa2s argument data.,3.5
+ Gives called function the ability to access and modify the caller\xc3\xa2\xe2\x82\xac\xe2\x84\xa2s argument data directly.,3.5
+ It is more efficient and it changes the variable not online inside the function but outside so that the new value can be used elsewhere.,3
+ you don't make another copy and waste memory,5
+" Passing by reference eliminates the copying of large amounts of data, typical with pass by value.",5
+" If a function's arguments are large in size, computing time and memory space is not wasted copying down the argument and passing it to the function.  Also pass by reference gives the function called the permission to read edit the argument directly.",5
+" Gives access to the caller data directly, also it allows for modifying the data.",3.5
+" less overhead overall, and you modify the variable directly.",3.5
+ The original variable being referenced can be modified directly by the called function.  ,3
+ gives function ability to access and modify the caller's argument data directly,3.5
+ Gives the called function the ability to access and modify the caller's argument data directly.,3
+" Less overhead than passed by value, especially when using large numbers.",3.5
+" large data items can be passed without copying the entire data point, reducing execution time and the amout of memory space needed",5
+ The data can be modified directly instead of making a copy of the data. Improves execution time with large amounts of data.,4
+ Functions can directly modify arguments that are passed by reference.,3.5
+ It gives access and modify the caller's argument data directly. It eliminate the pass by value overhead of copying large amounts ofdata,5
+" it takes less memory, thus it would make the program faster",4
+ You are able to modify the variable that is referenced directly.,3.5
+" if you pass by reference, you can modify the value as opposed to passing by value where you cannot change the value",3.5
+" only the memory address is sent to the function, so no copy of the object sent needs to be made. It makes the function run faster, and saves memory.",5
+" Actual arguments are associated with dummy arguments when a function or subroutine is referenced. In a procedure reference, the actual argument list identifies the correspondence between the actual arguments provided in the list and the dummy arguments of the subprogram",3

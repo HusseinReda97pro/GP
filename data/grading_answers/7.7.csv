@@ -1,27 +1,27 @@
-,answers,score
-0, they take up twice as much memory for each node,5
-1," In a doubly linked list, there are more pointers to set and the mechanics of inserting and deleting are more difficult. Also, the special cases at the beginning or end of the list are more complicated.",3.5
-2," There are more pointers to set, the mechanics of inserting into and deleting from a doubly linked list are a bit more involved than for a singly linked list.",4
-3, Insertion and deletion with a doubly linked list are more involved than with a singly linked list leaving more room for error and complex algorithms.,3
-4," Need more memory to store ""previous"" pointers.",5
-5, a node in a doubly linked list takes up more memory than a node in a singly linked list.,5
-6, You have to keep up with where you are and you have to consider the predecessor and successor connections when inserting/deleting.,3
-7," Each node requires an extra node, requires more memory, and is more difficult to insert and remove individual nodes",5
-8," Double-linked lists require more space per node, and their elementary operations are more expensive",5
-9, More difficult to delete and create nodes.,3
-10, They use more memory and you have to make 2 pointers and update 2 pointers each time you change the list.,5
-11, nodes take up more memory,5
-12," Each node requires an extra pointer (space requirements increased), Insertion or deletion of a node takes a longer (more pointer operations).",5
-13, its a little more confusing. The special cases at the end and beginning become more difficult to do. ,3
-14, increased actions to add and remove elements to the linked list.,3
-15," Inserting and deleting in a double-linked list is more involved, and has special cases at the beginning and end.",3
-16, The main disadvanate is that if hard to remove all items in the list.,2
-17," each node requires an extra pointer, taking up more storage.  insertions and deletions require more pointer operations.",5
-18," in a doubly linked list there are twice as many pointers for each element , therefore more memory is used",5
-19, The process of adding and removing Nodes in a Doubly linked list is more complex than in a basic linked list,3.5
-20," Double linked lists require more space per node, and their elementary operation are more expensive",5
-21," 1- each node requires an extra pointer, requiring more space<br>2- the insertion or deletion of a node takes a bit longer, more pointer operations",5
-22, It takes up twice the storage needed.,5
-23," using more pointers to enable the backward movement takes up more memory, having more pointers make it slightly more work to add or remove a node from the list",5
-24," increased memory requirements, slightly more complicated when modifying elements in the list",5
-25, not answered,0
+answers,score
+ they take up twice as much memory for each node,5
+" In a doubly linked list, there are more pointers to set and the mechanics of inserting and deleting are more difficult. Also, the special cases at the beginning or end of the list are more complicated.",3.5
+" There are more pointers to set, the mechanics of inserting into and deleting from a doubly linked list are a bit more involved than for a singly linked list.",4
+ Insertion and deletion with a doubly linked list are more involved than with a singly linked list leaving more room for error and complex algorithms.,3
+" Need more memory to store ""previous"" pointers.",5
+ a node in a doubly linked list takes up more memory than a node in a singly linked list.,5
+ You have to keep up with where you are and you have to consider the predecessor and successor connections when inserting/deleting.,3
+" Each node requires an extra node, requires more memory, and is more difficult to insert and remove individual nodes",5
+" Double-linked lists require more space per node, and their elementary operations are more expensive",5
+ More difficult to delete and create nodes.,3
+ They use more memory and you have to make 2 pointers and update 2 pointers each time you change the list.,5
+ nodes take up more memory,5
+" Each node requires an extra pointer (space requirements increased), Insertion or deletion of a node takes a longer (more pointer operations).",5
+ its a little more confusing. The special cases at the end and beginning become more difficult to do. ,3
+ increased actions to add and remove elements to the linked list.,3
+" Inserting and deleting in a double-linked list is more involved, and has special cases at the beginning and end.",3
+ The main disadvanate is that if hard to remove all items in the list.,2
+" each node requires an extra pointer, taking up more storage.  insertions and deletions require more pointer operations.",5
+" in a doubly linked list there are twice as many pointers for each element , therefore more memory is used",5
+ The process of adding and removing Nodes in a Doubly linked list is more complex than in a basic linked list,3.5
+" Double linked lists require more space per node, and their elementary operation are more expensive",5
+" 1- each node requires an extra pointer, requiring more space2- the insertion or deletion of a node takes a bit longer, more pointer operations",5
+ It takes up twice the storage needed.,5
+" using more pointers to enable the backward movement takes up more memory, having more pointers make it slightly more work to add or remove a node from the list",5
+" increased memory requirements, slightly more complicated when modifying elements in the list",5
+ not answered,0

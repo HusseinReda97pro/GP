@@ -1,32 +1,32 @@
-,answers,score
-0," The compiler selects the proper functions to execute based on number, types and order of arguments in the function call.",5
-1, They differentiated by the compiler by the conditions/inputs used for one of the overloaded functions.,3
-2," The compiler distinguishes overloaded functions by their signatures. It encodes each function identifier with the number and types of its parameters to generate type-safe linkage, which ensures the proper overloaded function is called.",5
-3," Overloaded functions are distinguished by their signatures, Name mangling or name decoration, and type-safe linkage ensures that proper overloaded functions is called and types of the arguments conform to tpes to the parameters.",5
-4," The compiler selects proper function to execute based on number, types and order of arguments in the function call.",5
-5," By the type they are initilized with (int, char, etc.)",3
-6," It selects the proper function to execute based on number, types and order of arguments in the function call.",5
-7, overloaded functions must have the same return type but different input parameters,3
-8," It examines the names, types, and order of arguments on each function.",5
-9, unique function signatures,5
-10," Is based on number, types, and order of arguments in the function call.",5
-11," Compiler selects proper function to execute based on number, types and order of arguments in the function call.",5
-12, not answered,0
-13," they have to have same return type, but different input parameters",3
-14, Overloaded functions are differentiated by their parameters.,4.5
-15," The compiler selects the right function to execute from the number, types and order of arguments in the function call.",5
-16, it creates a set of candidate functions then a set of viable functions,3
-17, their function signature.,5
-18, The number and type of its parameters.,5
-19, by their function signature,5
-20," They have the same name, just different parameters.",3.5
-21," They are differntiated by number, types and order of arguments in the function call.",5
-22," it looks at the number, types, and order of arguments in the function call<br>",5
-23, The compiler differentiates overloaded functions by their signature.,5
-24," By the number, types, and order of their arguments",5
-25," Compiler selects proper function to execute based on number, types and order of arguments in the function call.",5
-26, paremeters,4.5
-27," By the number, and the types and order of the  parameters.",5
-28, by the number and type of arguments,5
-29," by their signature (return type, argument list)",4
-30, overloaded function simply invovles haing a method with the same name within the class. is used to implement a method for subclass which overrides in other words replaces the implementation of the super class. Overloading the concept of providing different meaning to a object based on the context of its presence. Overloading is one type of polymorphism and this is also a feature in programing. ,3
+answers,score
+" The compiler selects the proper functions to execute based on number, types and order of arguments in the function call.",5
+ They differentiated by the compiler by the conditions/inputs used for one of the overloaded functions.,3
+" The compiler distinguishes overloaded functions by their signatures. It encodes each function identifier with the number and types of its parameters to generate type-safe linkage, which ensures the proper overloaded function is called.",5
+" Overloaded functions are distinguished by their signatures, Name mangling or name decoration, and type-safe linkage ensures that proper overloaded functions is called and types of the arguments conform to tpes to the parameters.",5
+" The compiler selects proper function to execute based on number, types and order of arguments in the function call.",5
+" By the type they are initilized with (int, char, etc.)",3
+" It selects the proper function to execute based on number, types and order of arguments in the function call.",5
+ overloaded functions must have the same return type but different input parameters,3
+" It examines the names, types, and order of arguments on each function.",5
+ unique function signatures,5
+" Is based on number, types, and order of arguments in the function call.",5
+" Compiler selects proper function to execute based on number, types and order of arguments in the function call.",5
+ not answered,0
+" they have to have same return type, but different input parameters",3
+ Overloaded functions are differentiated by their parameters.,4.5
+" The compiler selects the right function to execute from the number, types and order of arguments in the function call.",5
+ it creates a set of candidate functions then a set of viable functions,3
+ their function signature.,5
+ The number and type of its parameters.,5
+ by their function signature,5
+" They have the same name, just different parameters.",3.5
+" They are differntiated by number, types and order of arguments in the function call.",5
+" it looks at the number, types, and order of arguments in the function call",5
+ The compiler differentiates overloaded functions by their signature.,5
+" By the number, types, and order of their arguments",5
+" Compiler selects proper function to execute based on number, types and order of arguments in the function call.",5
+ paremeters,4.5
+" By the number, and the types and order of the  parameters.",5
+ by the number and type of arguments,5
+" by their signature (return type, argument list)",4
+ overloaded function simply invovles haing a method with the same name within the class. is used to implement a method for subclass which overrides in other words replaces the implementation of the super class. Overloading the concept of providing different meaning to a object based on the context of its presence. Overloading is one type of polymorphism and this is also a feature in programing. ,3

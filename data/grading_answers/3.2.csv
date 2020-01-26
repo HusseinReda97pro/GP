@@ -1,32 +1,32 @@
-,answers,score
-0, Any functions that follows their deceleration that  are in the source code file are allowed to have access the variables.  Also global scope variables retrain their value throughout the execution of the program.,5
-1, they can be accessed by any C++ file anywhere.,2.5
-2, Global variables have file scope.,5
-3, The scope of global variables are created by placing variable declarations outside any class or function definition.  Global variables retain their values throughout the execution of the program and they can be referenced by any function that follows their declarations or definitions in the source file.,2.5
-4, A global variable is an identifier that retains it's value throughout the execution of the program. It has file scope.,5
-5, Global Variables can be used in any function as long as the appropriate .h file that holds the variable is included,4
-6, They can be accessed by any part of the program. It can be referenced by any function that follows the declarations or definitions in the source file.,5
-7, can be accesed by any classes that have and object of that variables class in it,3
-8, Global variables have file-scope.  The variable is know to all functions throught the file,5
-9, The entire program,4.5
-10, They have file scope when placed outside a function.,5
-11, File scope.,5
-12, They can be used throughout the program,4.5
-13, Global variable can b accessed by any class wit an object in the variables class,3
-14, The scope of global variables is at the file level.,5
-15, Global variables all have file scope.,5
-16, it is accessible by all functions within a program,4.5
-17," variables accessible anywhere in the program, as long as they are public.",4.5
-18, They can be referenced by any function following their declaration or definition inside the source file.,5
-19," globally, anywhere in the program.",4.5
-20, Global variables have a file scope,5
-21, The entire program.,4.5
-22, throughout the execution of the program,4.5
-23," If a variable is declared global, any function or class can use that variable.",4.5
-24, The entire program or file.,5
-25, throught the programm,4.5
-26, the whole code,4.5
-27, File scope,5
-28, can be referenced by any function that follows their declarations or definitions in the source file,5
-29, global variables have program scope (accessible anywhere in program),4.5
-30, variables that exist throught the entire script. their values can be changed anytime in the code and fucntions. ,4.5
+answers,score
+ Any functions that follows their deceleration that  are in the source code file are allowed to have access the variables.  Also global scope variables retrain their value throughout the execution of the program.,5
+ they can be accessed by any C++ file anywhere.,2.5
+ Global variables have file scope.,5
+ The scope of global variables are created by placing variable declarations outside any class or function definition.  Global variables retain their values throughout the execution of the program and they can be referenced by any function that follows their declarations or definitions in the source file.,2.5
+ A global variable is an identifier that retains it's value throughout the execution of the program. It has file scope.,5
+ Global Variables can be used in any function as long as the appropriate .h file that holds the variable is included,4
+ They can be accessed by any part of the program. It can be referenced by any function that follows the declarations or definitions in the source file.,5
+ can be accesed by any classes that have and object of that variables class in it,3
+ Global variables have file-scope.  The variable is know to all functions throught the file,5
+ The entire program,4.5
+ They have file scope when placed outside a function.,5
+ File scope.,5
+ They can be used throughout the program,4.5
+ Global variable can b accessed by any class wit an object in the variables class,3
+ The scope of global variables is at the file level.,5
+ Global variables all have file scope.,5
+ it is accessible by all functions within a program,4.5
+" variables accessible anywhere in the program, as long as they are public.",4.5
+ They can be referenced by any function following their declaration or definition inside the source file.,5
+" globally, anywhere in the program.",4.5
+ Global variables have a file scope,5
+ The entire program.,4.5
+ throughout the execution of the program,4.5
+" If a variable is declared global, any function or class can use that variable.",4.5
+ The entire program or file.,5
+ throught the programm,4.5
+ the whole code,4.5
+ File scope,5
+ can be referenced by any function that follows their declarations or definitions in the source file,5
+ global variables have program scope (accessible anywhere in program),4.5
+ variables that exist throught the entire script. their values can be changed anytime in the code and fucntions. ,4.5

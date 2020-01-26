@@ -28,4 +28,4 @@ for ans in answers:
 data = pd.DataFrame(columns=['questions','answers'])
 data['questions'] = cleaned_questions
 data['answers'] = cleaned_answers
-data.to_csv('Mohlar_Data.csv')
+data.to_csv('model_answers.csv', index=False)

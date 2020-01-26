@@ -1,28 +1,28 @@
-,answers,score
-0, Push.,5
-1," push, which inserts something at the top of the stack.",5
-2, The stack operation corresponding to enqueue in queues is the push operation.,5
-3," Push in a stack operation corresponds to the enqueue operation in queues.  These operations insert a new item into one end(the top and back, respectively) of the ADT.",5
-4, The stack operation is almost the opposite of the enqueue operation.,2.5
-5, push = enqueue<br>pop = dequeue,4.5
-6, push,5
-7, Not sure what this question means.  You can use the stack 'push' operation and the enqueue operation to detect palindromes.  ,5
-8," Enqueue is the queue equivalent of push, and dequeue is the queue equivalent to pop.",5
-9, Push operation.,5
-10, push,5
-11, push,5
-12, push,5
-13, push,5
-14," that would be the push operation, if it put the item at the end of the list.",5
-15, push,5
-16, push,5
-17, the Push method in the stack operations.,5
-18, push,5
-19, enqueue corresponds with push<br>dequeue corresponds with pop,4.5
-20," Push corresponds with enqueue, both very similarly place new elements into their stack or queue",5
-21, FIFO: First in First out,1.5
-22, push,5
-23, Push,5
-24, push,5
-25, push,5
-26, push ,5
+answers,score
+ Push.,5
+" push, which inserts something at the top of the stack.",5
+ The stack operation corresponding to enqueue in queues is the push operation.,5
+" Push in a stack operation corresponds to the enqueue operation in queues.  These operations insert a new item into one end(the top and back, respectively) of the ADT.",5
+ The stack operation is almost the opposite of the enqueue operation.,2.5
+ push = enqueuepop = dequeue,4.5
+ push,5
+ Not sure what this question means.  You can use the stack 'push' operation and the enqueue operation to detect palindromes.  ,5
+" Enqueue is the queue equivalent of push, and dequeue is the queue equivalent to pop.",5
+ Push operation.,5
+ push,5
+ push,5
+ push,5
+ push,5
+" that would be the push operation, if it put the item at the end of the list.",5
+ push,5
+ push,5
+ the Push method in the stack operations.,5
+ push,5
+ enqueue corresponds with pushdequeue corresponds with pop,4.5
+" Push corresponds with enqueue, both very similarly place new elements into their stack or queue",5
+ FIFO: First in First out,1.5
+ push,5
+ Push,5
+ push,5
+ push,5
+ push ,5
