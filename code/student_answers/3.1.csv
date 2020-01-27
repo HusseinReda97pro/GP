@@ -1,0 +1,32 @@
+answers,score
+" It includes the name of the program, the type of parameters it can take. It should also include a brief description of what the function does.",4.5
+ it includes the specific information about the function such as input and output variable types and how many of each.,3
+ The function signature includes the name of the function and the types of its arguments.,5
+" A function signature consists of the function prototype.  This tells you the general information about a function, its name, parameters, what scope it is in, and other miscellaneous information.",4.5
+ It includes the name of the function and the types of its arguments.,5
+" Name, paramaters, scope, and other general function information",4.5
+ It includes a function name and parameter list. Does not include return type. Function signatures must be different.,5
+ input parameters and return type,3
+ The portion of the function prototyp tha has the function name and the arguments but NOT the return type.,5
+ Name of the function and the types of it's arguments,5
+ The name of the function and the types of its arguments.,5
+ Includes the name of the function and the types of its arguments.,5
+" identification of a function and the data types of its parameters, it has the name, and the data type variables ",5
+" a return type, and input parameters",3
+ The function signature includes the method name and the input types. ,5
+" A function signature includes the name of the function and types of arguments, but not the return type.",5
+ The signature can include a result type and thrown errors. ,2
+" function name, and input paramaters",5
+" The name of the function and the types of its arguments.This includes the number, type, and order the parameters appear in.",5
+ the name of the function and the types of its arguments,5
+ A function signature includes the name of the function and the types of its arguments,5
+" A function signature includes a function's return type, parameters and semi-colon.",3
+ the name of the function and the types of its arguments,5
+ the function's name and parameters,5
+ The name of the function and the types of its arguments.,5
+ The portion of a function prototype that includes the name of the function and the types of its arguments,5
+ the name of the function and its parameters,5
+ The function name and parameters,5
+ name of function and types of arguments,5
+ a function's return type and parameter list,3
+" it includes the name of the function, and the types of its arguments. it does not specify the function return type. Function in the same scope must have unqiue signatures. ",5

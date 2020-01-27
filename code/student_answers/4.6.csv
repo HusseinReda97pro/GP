@@ -1,0 +1,31 @@
+answers,score
+ compilation error,1
+ compilation error.,1
+ Using an index outside the bounds of the array generates a run-time error.,5
+ run-time error,5
+ Its a run-time error.,5
+ run time error,5
+ Run-time error.,5
+ run-time error,5
+ compilation error,1
+" This is a run-time error. The program will compile AND execute, so these errors can be difficult to debug.",5
+ this is a run-time error or execution-time error.,5
+ Run-time.,5
+ run time,5
+ Generates a compilation error. The compiler will complain that the variable you are referring to was never declared.,1
+ run-time,5
+ Run-time error.,5
+ run time error,5
+ runtime error.,5
+ Compilation error.,1
+ run-time error,5
+ run-time error,5
+ run-time error,5
+ compilation error.,1
+ run-time error,5
+ not answered,0
+ run-time error,5
+ compilation error,1
+ compilation error,1
+" It will NOT cause a compilation error. It will either give a run-time error, or will give the value at that actual location in memory, causing a logic error.",5
+ it is a run-time error ,5

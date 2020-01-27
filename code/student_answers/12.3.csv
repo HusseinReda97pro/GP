@@ -1,0 +1,29 @@
+answers,score
+" log(log n), 2^(log n), n^2, n^3, n!",5
+" log(log n), n^2, n^3, 2^(log n), n!",4
+ log(logn) 2^(log n) n^2 n^3 n!,5
+" log(log n), 2^(log n), n^2, n^3, n!",5
+" log(log n) , 2^(log n) , n^2 , n^3, n!",5
+" log(log(n)), n^2, n^3, 2^log(n), n!",4.125
+ log(logn)2^(logn)n!n^3n^2,2
+ log(log n); 2^(log n); n!; n^2; n^3;,3.75
+" this goes from largest to smallest: n!, n^3, n^2, 2^(log n), log(log n) ",5
+ log(log n); 2^(log n); n^2; n^3; n!,5
+" 2^(log n), log(log n), n!, n^2, n^3",1.75
+ log(log n); n!; n^2;n^3;n^(log n),2.25
+" From least to greatest:  log(log n), 2^(log n), n^2, n^3, n!",5
+" log(log n)2^(log n), is just nn^2n^3n!",5
+ 2^(log n)log(log n)n^2n^3n!,4
+ from lowest to longest.log(log n); 2^(log n); n!;  n^2;  n^3;,3.625
+ log(log(n))2^log(n)n^2n^3n!,5
+" log(log n), 2^(log n), n^2, n^3, n!",5
+" 2^(log n), n^3, n^2,  log(log n), n! ",2
+" linear, logarithmic, exponential, linear, linear",1.5
+" quickest at top, slowest at bottomlog(log n)n^2n^32^(log n)n!",4
+ longest to shortest:n^3; n!; n^2; 2^(log n); log(log n),3
+ 2^(log n)n^2^3log(long n)n!,3.25
+ from lowest to highest1- long(long n)2- 2^log(n)3- n^24- N^35- n!,5
+ log(log n); n^2; n^3; n!; 2^(log n) ,4.125
+ n^2; n!; n^3; 2^(log n); log(log n),2.25
+" worst to best: n!, n^3, n^2, 2^(log n), log(log n)",5
+" log(long n),  2^(log n); n^2, n^3;",4.75
