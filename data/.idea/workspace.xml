@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81d8d926-f31f-42ab-b0fc-b876f376547d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mohlar_Data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collect_data_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/collect_data_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collect_data_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/collect_data_2.py" afterDir="false" />
-    </list>
+    <list default="true" id="81d8d926-f31f-42ab-b0fc-b876f376547d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/collect_data_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="39" column="12" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="12" />
+            <state relative-caret-position="461">
+              <caret line="54" selection-start-line="54" selection-end-line="54" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -176,9 +170,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -240,8 +233,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/collect_data_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="39" column="12" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="12" />
+        <state relative-caret-position="461">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
